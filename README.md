@@ -6,7 +6,7 @@ Verwendete Bibliotheken:
 - [Material-UI v4](https://next.material-ui.com/)
 - [Storybook](https://storybook.js.org/)
 
-## Setup
+### Setup
 
 1. Dieses git-Projekt herunterladen oder klonen.
 2. Im Projektverzeichnis `npm install` ausführen.

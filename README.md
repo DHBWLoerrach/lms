@@ -8,11 +8,15 @@ Verwendete Bibliotheken:
 
 ## Setup
 
-1. Projekt herunterladen oder klonen
-2. Im Projektverzeichnis `npm install` ausführen
-3. `npm start` führt die Web-App im Entwicklungsmodus aus, erreichbar unter [http://localhost:3000](http://localhost:3000) im Browser.
+1. Dieses git-Projekt herunterladen oder klonen.
+2. Im Projektverzeichnis `npm install` ausführen.
+
+### App im Browser
+
+1. Im Projektverzeichnis `npm start` ausführen.
+2. `npm start` führt die Web-App im Entwicklungsmodus aus, erreichbar unter [http://localhost:3000](http://localhost:3000) im Browser.
 
 ### Storybook
 
-1. Im Projektverzeichnis `npm run storybook` ausführen
+1. Im Projektverzeichnis `npm run storybook` ausführen.
 2. Die Stories erscheinen im Browser unter [http://localhost:9009](http://localhost:9009)
